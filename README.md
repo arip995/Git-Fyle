@@ -1,6 +1,7 @@
 # Project Deployed on heroku
 Link:- https://git-detail.herokuapp.com/github/profile 
 1. Implemented caching
+2. Implemented http interceptors for global loading
 
 ## Development server
 1. Clone the repo
