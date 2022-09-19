@@ -1,5 +1,5 @@
 # Project Deployed on heroku
-Link:- https://git-detail.herokuapp.com/github/profile1. Implemented caching
+Link:- https://git-detail.herokuapp.com/github/profile 1. Implemented caching
 
 ## Development server
 
