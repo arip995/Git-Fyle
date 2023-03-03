@@ -4,7 +4,12 @@ import { ProfileComponent } from './profile/profile.component';
 
 const routes: Routes = [
   {
-    path             : '',
+    path           : '',
+    pathMatch      : 'full',
+    redirectTo     : '/github/profile',
+  },
+  {
+    path             : '/github/profile',
     pathMatch        : 'full',
     component        : ProfileComponent,
   }
